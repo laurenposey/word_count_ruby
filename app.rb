@@ -8,7 +8,8 @@ get('/') do
 end
 
 get('/word_count') do
-  @ = params.fetch("").word_count(params.fetch(""))
-  @ = params.fetch("")
+  @sentence = params.fetch("sentence")
+  @string = params.fetch("string")
+  @result = @sentence.word_count(@string)
   erb(:word_count)
 end
