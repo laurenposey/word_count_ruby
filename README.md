@@ -18,7 +18,7 @@ counts how many times a word appears in a string of words|'My kitty is the best 
 
 * _Establish an internet connection_
 * _Open a web browser_
-* _<a href="herokulink">Click here for Heroku Link</a>.
+* _<a href="https://polite-inuksuk-23162.herokuapp.com/">Click here for Heroku Link</a>.
 
 ## Known Bugs
 
