@@ -2,7 +2,7 @@
 
 #### _Word Count, 01 July 2016_
 
-#### By _**Lauren Posey**_
+#### By _**Lauren Valkyrie**_
 
 ## Description
 
@@ -24,10 +24,6 @@ counts how many times a word appears in a string of words|'My kitty is the best 
 
 * _none_
 
-## Support and contact details
-
-_If you run into any issues or have questions, ideas, or concerns, please feel free to contact Lauren at <a href="mailto:mrslaurenposey@gmail.com">mrslaurenposey@gmail.com</a>._
-
 ## Technologies Used
 
 * _Ruby_
@@ -38,7 +34,7 @@ _If you run into any issues or have questions, ideas, or concerns, please feel f
 
 *MIT License*
 
-Copyright (c) 2016 **_Lauren Posey_**
+Copyright (c) 2016 **_Lauren Valkyrie_**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
